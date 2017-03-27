@@ -29,7 +29,7 @@ Community-driven translation. :family:
 | Korean | `ko` | :white_check_mark: 100% |
 | Dutch | `nl` | :exclamation: [I can translate][nl-issue-filter] |
 | Portuguese(Brazil) | `pt-br` | :exclamation: [I can translate][pt-br-issue-filter] |
-| Russian | `ru` | :warning: [I can translate][ru-issue-filter] |
+| Russian | `ru` | :warning: 99% [I can translate][ru-issue-filter] |
 | Chinese(Simplified) |  `zh-cn` | :white_check_mark: 100% |
 | Chinese(Traditional) | `zh-tw` | :white_check_mark: 100% |
 
@@ -55,6 +55,7 @@ Community-driven translation. :family:
   - Spanish: [stsewd](https://github.com/stsewd)
   - German: [Acer54](https://github.com/Acer54)
   - Russian: [Anonym0uz](https://github.com/Anonym0uz)
+  - Portuguese (Brazilian): [jsolisu](https://github.com/jsolisu) [Driglu4it](https://github.com/Driglu4it)
 
 
 ## Reference
