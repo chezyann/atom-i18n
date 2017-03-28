@@ -26,4 +26,4 @@ Welcome:
       _template: "${text1}<a>${link}</a>${text2}"
     }
   }
-  showWelcomeGuide: "Show Welcome Guide when opening Atom"
+  showWelcomeGuide: "開啟 Atom 時顯示歡迎指南"
